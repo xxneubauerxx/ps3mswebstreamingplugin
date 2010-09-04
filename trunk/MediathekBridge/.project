@@ -3,7 +3,6 @@
 	<name>MediathekBridge</name>
 	<comment></comment>
 	<projects>
-		<project>Downloader2</project>
 		<project>MediathekView</project>
 		<project>PMS3</project>
 	</projects>

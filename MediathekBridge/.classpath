@@ -4,6 +4,5 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/MediathekView"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/PMS3"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Downloader2"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
